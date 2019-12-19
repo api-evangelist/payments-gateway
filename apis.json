@@ -1,0 +1,61 @@
+{
+    "name": "Payments Gateway",
+    "description": "A payment gateway is an e-commerce application service provider that authorizes payments between a merchant and the customer, typically for e-businesses, online retailers or traditional brick and mortar. It enables merchants to process multiple transaction types including electronic check (ACH, credit card and debit card) transactions in either real time or batch mode.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2019-09-06 at 8.29.25 PM.png",
+    "tags": [
+        "financial",
+        "financial services",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/payments-gateway\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Payments Gateway",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2019-09-06 at 8.29.25 PM.png",
+            "humanURL": "http:\/\/www.paymentsgateway.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payments-gateway-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payments-gateway-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/payments-gateway"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/payments-gateway"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/paymentsgateway.com\/developers.html"
+        },
+        {
+            "type": "Email",
+            "url": "legal@paymentsgateway.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.paymentsgateway.com"
+        }
+    ]
+}
