@@ -1,0 +1,12 @@
+{
+    "id": "fff42dbe4d67b4b4d7f24864418d4c93",
+    "name": "Payments Gateway",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": []
+}
